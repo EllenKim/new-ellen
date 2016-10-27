@@ -1,0 +1,11 @@
+html, body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  font-size: 15px;
+  color: #f643a1;
+	font-family: 'Oswald', sans-serif;
+}
